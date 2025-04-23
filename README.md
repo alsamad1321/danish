@@ -1,1 +1,1 @@
-http://192.168.123.26:8501  
+https://danish-1.onrender.com
